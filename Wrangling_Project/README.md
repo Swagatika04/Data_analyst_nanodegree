@@ -1,5 +1,3 @@
-**Wrangle Report**
-
 **Introduction**
 
 #### This dataset is the tweet archive of Twitter user @dog\_rates, also known as WeRateDogs. WeRateDogs is a Twitter account that rates people&#39;s dogs with a humorous comment about the dog. These ratings almost always have a denominator of 10. The numerators, though? Almost always greater than 10. 11/10, 12/10, 13/10, etc. The objective of this project is to wrangle the messy Twitter data to create interesting and trustworthy analysis and visualizations.
@@ -19,23 +17,6 @@
 **Step 2 : Assessing Data**
 
 As a second step of the Data wrangling process, assessing helped to figure out several Quality issues (content related) and some tidiness issues (structural types).
-
-#### Quality
-
-- Timestamp column is a string
-- There were many Missing/ Misspelled dog names
-- Some text lines contain links
-- Exclude columns that are not required for analysis
-- Rating denominator higher than 10 and some lower than 10
-- Retweets present in the file: texts start with &quot;RT @&quot;
-- There were &quot;&amp;amp&quot; characters present in text
-- Some breed names have the first letter lowercase in p1, p2, p3 columns
-- id column needs to be renamed to tweet\_id to make it similar to other data frames
-
-Tidiness
-
-- Dog stages split into 4 different columns in twitter dataframe
-- Combine the 3 separate data frames into 1
 
 **Step 3: Cleaning Data**
 
