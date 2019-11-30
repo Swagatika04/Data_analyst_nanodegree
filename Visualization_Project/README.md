@@ -1,12 +1,12 @@
 ## Data Visualization Project
 
-**Ford GoBike data**
+#### **Ford GoBike data**
 
 This dataset includes information about individual rides made in a bike-sharing system covering the greater San Francisco Bay area for the month of January.
 
-**Data Source** :  The Datasource for this project is taken from 2017 Ford goBike  https://www.fordgobike.com/systemdata . The dataset has the following parameters:
+#### **Data Source** :  The Datasource for this project is taken from 2017 Ford goBike  https://www.fordgobike.com/systemdata . The dataset has the following parameters:
 
-**Column Name**
+#### **Column Name**
 
 bike\_id
 
@@ -38,7 +38,7 @@ member\_gender
 
 member\_birth\_year
 
-**Steps taken  **
+#### **Steps taken**
 
 • Accessing data
 
@@ -52,7 +52,7 @@ member\_birth\_year
 
 • Conclusions
 
-**Questions to be answered:**
+#### **Questions to be answered:**
 
 • What is the average duration of trips?
 
@@ -64,7 +64,7 @@ member\_birth\_year
 
 • Does gender play any role in the duration/number of trips between different age groups?
 
-**Conclusions**
+#### **Conclusions**
 
 • Most people like to go for short trips of about 10 mins.
 
