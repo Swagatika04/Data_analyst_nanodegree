@@ -2,10 +2,10 @@
 
 #### **Table of Contents**
 
-•	Introduction
-•	Part I - Probability
-•	Part II - A/B Test
-•	Part III - Regression
+-	Introduction
+-	Part I - Probability
+-	Part II - A/B Test
+-	Part III - Regression
 
 
 #### **Introduction**
